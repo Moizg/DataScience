@@ -1,1 +1,7 @@
-### This repo is for Data Science and its applications
+# 'My Work' Data Science and it's Applications
+
+- Datasets
+- Data Visualization
+    - PowerBi Dashboards
+- Data Analysis
+- Machine Learning
